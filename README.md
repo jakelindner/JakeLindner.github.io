@@ -1,2 +1,3 @@
 # JakeLindner.github.io
-My portfolio website.
+This is my portfolio website.
+Thank you AlexTheAnalyst for the great tutorial video!
